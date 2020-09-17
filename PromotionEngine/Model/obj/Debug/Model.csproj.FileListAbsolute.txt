@@ -1,0 +1,6 @@
+E:\Maersk\Coding_Test\ConsoleApp1\Model\bin\Debug\Model.dll
+E:\Maersk\Coding_Test\ConsoleApp1\Model\bin\Debug\Model.pdb
+E:\Maersk\Coding_Test\ConsoleApp1\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Maersk\Coding_Test\ConsoleApp1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Maersk\Coding_Test\ConsoleApp1\Model\obj\Debug\Model.dll
+E:\Maersk\Coding_Test\ConsoleApp1\Model\obj\Debug\Model.pdb

@@ -1,0 +1,17 @@
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\bin\Debug\Model.pdb
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\obj\Debug\Repository.csproj.CopyComplete
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\bin\Debug\Repository.dll
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\bin\Debug\Repository.pdb
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\obj\Debug\Repository.dll
+E:\Maersk\Coding_Test\ConsoleApp1\Repository\obj\Debug\Repository.pdb
+E:\Maersk\Coding_Test\PromotionEngine\Repository\bin\Debug\Repository.dll
+E:\Maersk\Coding_Test\PromotionEngine\Repository\bin\Debug\Repository.pdb
+E:\Maersk\Coding_Test\PromotionEngine\Repository\bin\Debug\Model.dll
+E:\Maersk\Coding_Test\PromotionEngine\Repository\bin\Debug\Model.pdb
+E:\Maersk\Coding_Test\PromotionEngine\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+E:\Maersk\Coding_Test\PromotionEngine\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\Maersk\Coding_Test\PromotionEngine\Repository\obj\Debug\Repository.csproj.CopyComplete
+E:\Maersk\Coding_Test\PromotionEngine\Repository\obj\Debug\Repository.dll
+E:\Maersk\Coding_Test\PromotionEngine\Repository\obj\Debug\Repository.pdb
